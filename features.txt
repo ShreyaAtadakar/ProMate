@@ -1,0 +1,1 @@
+This files holds information about the features to be added.
